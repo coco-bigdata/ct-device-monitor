@@ -2,7 +2,7 @@
   <div class="top-left-cmp">
     <div class="dc-left">
       <dv-border-box-5>
-        <div class="main-value"><span>0</span>件</div>
+        <div class="main-value"><span>1</span>件</div>
         <div class="compare-value"><span>同比</span>81</div>
         <div class="compare-value"><span>环比</span>15</div>
       </dv-border-box-5>
@@ -17,7 +17,7 @@
         <dv-decoration-3 style="width:200px;height:20px;" />
       </div>
       <dv-border-box-5 :reverse="true">
-        <div class="main-value"><span>0.1</span>件 / 日</div>
+        <div class="main-value"><span>0.2</span>件 / 日</div>
         <div class="compare-value"><span>同比</span>66</div>
         <div class="compare-value"><span>环比</span>9</div>
       </dv-border-box-5>
