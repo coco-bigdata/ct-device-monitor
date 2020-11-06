@@ -17,7 +17,7 @@ export default {
         legend: {
           data: [
             {
-              name: '收费系统',
+              name: '空调系统',
               color: '#00baff'
             },
             {
@@ -78,7 +78,7 @@ export default {
         },
         series: [
           {
-            name: '收费系统',
+            name: '空调系统',
             data: [
               2.5, 3.5, 6.5, 6.5, 7.5, 6.5, 2.5
             ],
